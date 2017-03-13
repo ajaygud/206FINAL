@@ -2,7 +2,7 @@
 
 ## COMMENT HERE WITH:
 ## Your name: Ajay Gudivada
-## Anyone you worked with on this project: N/A
+## Anyone you worked with on this project: Not applicable
 
 ## Below we have provided import statements, comments to separate out the parts of the project, instructions/hints/examples, and at the end, tests. See the PDF of instructions for more detail. 
 ## You can check out the SAMPLE206project2_caching.json for an example of what your cache file might look like.
